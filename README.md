@@ -2,7 +2,6 @@
 A functional, end-to-end fan-fiction platform built with MongoDB and Flask
 
 ## App Title: The Bulls Fiction Factory
-A Flask + MongoDB Fan-Fiction Platform
 
 ## Overview
 The Bulls Fiction Factory is a lightweight, full-stack web application that allows users to create, view, search, and manage fan fiction stories based on movies. Built using Flask, MongoDB, and a clean HTML/CSS/JavaScript frontend, the platform demonstrates practical implementation of NoSQL databases, routing, CRUD operations, and UI-driven data submission.
