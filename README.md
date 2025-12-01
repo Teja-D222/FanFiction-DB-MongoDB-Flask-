@@ -74,6 +74,7 @@ Upgrade to premium MongoDB tier for more storage + better performance
 <img width="804" height="460" alt="image" src="https://github.com/user-attachments/assets/0a04c45d-b3c5-45ce-b7ee-c0d28100ba3b" />
 <img width="859" height="537" alt="image" src="https://github.com/user-attachments/assets/e79ad345-72bc-4d0d-b743-1abffe471fb2" />
 <img width="800" height="263" alt="image" src="https://github.com/user-attachments/assets/cd6e8177-b058-46cd-bcc8-38b254a3c148" />
+
 ## Summary
 This project delivers a functional, end-to-end fan-fiction platform built with:
 A NoSQL database (MongoDB)
